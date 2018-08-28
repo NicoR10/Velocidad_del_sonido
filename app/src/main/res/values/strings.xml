@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Velocidad del sonido en el aire</string>
+    <string name="ing_temp">Ingrese la Temperatura: [°C]</string>
+    <string name="temp">Temperatura [°C]</string>
+    <string name="calc">CALCULAR</string>
+    <string name="vel_son">C:</string>
+    <string name="ms">m/s</string>
+    <string name="borrar">BORRAR</string>
+    <string name="desc">La ecuación que relaciona la velocidad del sonido en el aire con la temperatura ambiente es la siguiente:</string>
+    <string name="content">ecuacion</string>
+</resources>
